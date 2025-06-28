@@ -17,7 +17,7 @@ Initial draft of the full code actually encountered minimal errors. Draft functi
 
 - Problem 1. Small issue prior to a bigger one was ZeroDivisionError: in exam_statistics, len(some_list) was evaluating to 0 if no students got to the exam in the first place (<10 exam points)
   - Solution: resolved itself after solving problem 2
-- Problem 2. The big issue. While not initially apparent, in this task students who have <10 exam points should not be graded at all, **but their score points remain**. This caused an issue where two groups of students appear: those who failed prior to the exam and those who failed during, which impacted program output, because in the end the total score should be considered for ***both*** groups
+- Problem 2. The big issue. While not initially apparent, in this task students who have <10 exam points should not be graded at all, **but their score points remain**. This caused an issue where two groups of students appear: those who failed prior to the exam and those who failed during, which impacted program output, because in the end the total score should be considered for ***both*** groups, but only the passers must be graded.
   - Solution: to make the program work, I split it in two separate lists: those who passed and failer prior to the exam. Afterwards, passers were graded only. In the final output, amount of 0 students is a sum of those who failed during exam and those who did not get to the exam at all.
 
 ## To improve
