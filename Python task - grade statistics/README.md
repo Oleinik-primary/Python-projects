@@ -1,4 +1,4 @@
-Description of a task solution from "Grade statistics" task from Python Programming MOOC 2023 https://programming-23.mooc.fi/part-4/6-strings-and-lists
+Description of "Grade statistics" task solution from Python Programming MOOC 2023 https://programming-23.mooc.fi/part-4/6-strings-and-lists
 
 ## Result
 Even though the code ended up being twice as long and more verbose unlike the presented solution, this task definitely solidifed fundamental list, loop, function concepts as well as methods for working with sequences (strings and lists)
