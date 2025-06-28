@@ -2,7 +2,8 @@ Description of a task solution from "Grade statistics" task from Python Programm
 
 ## Result
 Even though the code ended up being twice as long and more verbose unlike the presented solution, this task definitely solidifed fundamental list, loop, function concepts as well as methods for working with sequences (strings and lists)
-
+- Personal solution: grade_satistics.py
+- Intended solution: grade_satistics_solution.py
 ## Functions description
 - **final evaluation** - ask input as per the task's description, calling 4 other functions: exam_statistics, final_list_split, exam_grades, failed_count
 - **final_list_split** - splits input list and summarizes a student's score
