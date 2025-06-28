@@ -5,7 +5,7 @@ Even though the code ended up being twice as long and more verbose unlike the pr
 - Personal solution: grade_satistics.py
 - Intended solution: grade_satistics_solution.py
 ## Functions description
-- **final evaluation** - ask input as per the task's description, calling 4 other functions: exam_statistics, final_list_split, exam_grades, failed_count
+- **final_evaluation** - asks input as per the task's description, calling 4 other functions: exam_statistics, final_list_split, exam_grades, failed_count
 - **final_list_split** - splits input list and summarizes a student's score
 - **pass_list** - lists students who have passed *before the exam* (see problem 2)
 - **failed_count** - lists students who have failed *before the exam* (see problem 2)
