@@ -1,4 +1,6 @@
 # MOOC 2023 statistics 
+Course link: https://programming-23.mooc.fi/
+
 **Final project: *Hockey statistics***
 
 **Exercises were completed up to part 12 inclusive (without tackling other projects in last 2 chapters)**
